@@ -6,8 +6,8 @@ long_description = """# wiiss
 Just call `wiis.wiis()` to print the location information."""
 
 setup(
-    name=' wiiss',
-    version='0.0.1',
+    name='wiiss',
+    version='0.1.0',
     packages=find_packages(),
     url='https://github.com/RoW171/wiiss',
     license='MIT',
