@@ -6,7 +6,7 @@ __credits__ = ["Robin Weiland", ]
 __copyright__ = "Copyright 2019, Robin Weiland"
 
 __date__ = "2019-05-04"
-__version__ = "0.0.0"
+__version__ = "0.1.0"
 __license__ = "MIT"
 
 __status__ = "In Development"
