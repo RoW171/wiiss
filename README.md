@@ -1,7 +1,9 @@
 # wiiss
  -- short for 'where is iss' - provides the current location of the ISS based on data from the open-notify and nominatim osm apis
 
-there isn't much behind it, the docstrings might help to understand the details
+Just call `wiis.wiis()` to print the location information
+
+There isn't much behind it, the docstrings might help to understand the details
     
     
     class ResponseFailed(Exception):
