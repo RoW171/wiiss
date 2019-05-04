@@ -1,5 +1,5 @@
 # wiiss
- -- short for 'where is iss' - provides the current location based on data from the open-notify and nominatim osm apis
+ -- short for 'where is iss' - provides the current location of the ISS based on data from the open-notify and nominatim osm apis
 
 there isn't much behind it, the docstrings might help to understand the details
     
